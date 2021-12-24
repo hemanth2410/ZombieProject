@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 391398e22a46bf14b89f00eb12c5eb0c, type: 3}
+  m_Name: Bush02
+  m_EditorClassIdentifier: 
+  bushName: bush02
+  bushPrefab: {fileID: 160138, guid: 29974a951b75ba64d85cd76ae1e03ede, type: 3}
+  radius: 0

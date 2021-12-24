@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: Avatar17
+  m_EditorClassIdentifier: 
+  _itemName: Dog
+  _indexPosition: 17
+  _itemType: {fileID: 11400000, guid: e07383a35af33ae488229d37ffb40e92, type: 2}
+  _itemPrefab: {fileID: 1169917199862549148, guid: 88074098b1e4c4c498848d6671c326a9,
+    type: 3}
+  _mainMenuPrefab: {fileID: 1004064184262159177, guid: 61f20a5cd9042744eb210c8dacb6b4ab,
+    type: 3}
+  _unlockedIcon: {fileID: 7342669544843273932, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: 4286097987600922092, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

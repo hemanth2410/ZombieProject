@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c07082f5146f93468d272eea3770402, type: 3}
+  m_Name: PopupEnemy9_b
+  m_EditorClassIdentifier: 
+  enemyName: p9_b
+  enemyPrefab: {fileID: 6408721954091362785, guid: a859ac3939346d54f992b98b69120c01,
+    type: 3}

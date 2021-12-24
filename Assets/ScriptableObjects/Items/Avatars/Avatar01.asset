@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: Avatar01
+  m_EditorClassIdentifier: 
+  _itemName: Cat
+  _indexPosition: 1
+  _itemType: {fileID: 11400000, guid: e07383a35af33ae488229d37ffb40e92, type: 2}
+  _itemPrefab: {fileID: 4489292525341447534, guid: 9ef8e3adc0526714ea5f3e9f12ed0c34,
+    type: 3}
+  _mainMenuPrefab: {fileID: 6192766616235024561, guid: fd60f1e52366fdb4199344bb39ce6704,
+    type: 3}
+  _unlockedIcon: {fileID: 1376573196791564875, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: 2321124729941322119, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

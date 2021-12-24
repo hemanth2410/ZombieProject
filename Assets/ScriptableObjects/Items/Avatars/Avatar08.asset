@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: Avatar08
+  m_EditorClassIdentifier: 
+  _itemName: Minion
+  _indexPosition: 8
+  _itemType: {fileID: 11400000, guid: e07383a35af33ae488229d37ffb40e92, type: 2}
+  _itemPrefab: {fileID: 3251314880944248311, guid: d7d1afab4dc9695498af15a31aa00eb1,
+    type: 3}
+  _mainMenuPrefab: {fileID: 4498804978741790412, guid: 499206d5fb3858540b379551b7dcf170,
+    type: 3}
+  _unlockedIcon: {fileID: 4040239286920439364, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: -7769576907707505431, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

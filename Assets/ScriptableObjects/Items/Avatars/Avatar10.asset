@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: Avatar10
+  m_EditorClassIdentifier: 
+  _itemName: Panda
+  _indexPosition: 10
+  _itemType: {fileID: 11400000, guid: e07383a35af33ae488229d37ffb40e92, type: 2}
+  _itemPrefab: {fileID: 7231651904561851557, guid: 81b4a465597b50c40925fc6c2fb9ce9b,
+    type: 3}
+  _mainMenuPrefab: {fileID: 5559670960484708074, guid: 7f36b1fa8994405458bc9ccbb0822c4e,
+    type: 3}
+  _unlockedIcon: {fileID: 4133585701998381048, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: 2275026618022714356, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

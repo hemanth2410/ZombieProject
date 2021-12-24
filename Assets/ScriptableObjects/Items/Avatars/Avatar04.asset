@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: Avatar04
+  m_EditorClassIdentifier: 
+  _itemName: Eva
+  _indexPosition: 4
+  _itemType: {fileID: 11400000, guid: e07383a35af33ae488229d37ffb40e92, type: 2}
+  _itemPrefab: {fileID: 9144903659648975843, guid: fadcd2d297f9dac4a8d8ddbd8971786e,
+    type: 3}
+  _mainMenuPrefab: {fileID: 6156501854833499047, guid: d95aa007a51e6dc45a5809bb824c7a2b,
+    type: 3}
+  _unlockedIcon: {fileID: 2260489667552063152, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: 1379207525127926735, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

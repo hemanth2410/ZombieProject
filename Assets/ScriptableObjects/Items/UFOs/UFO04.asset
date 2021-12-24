@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: UFO04
+  m_EditorClassIdentifier: 
+  _itemName: UFO02
+  _indexPosition: 4
+  _itemType: {fileID: 11400000, guid: 9ced7036da8a20f49918a3f0b38f77c8, type: 2}
+  _itemPrefab: {fileID: 2442329646599648772, guid: 547f6a30bce39b84da6410d6a39bcddb,
+    type: 3}
+  _mainMenuPrefab: {fileID: 2442329646599648772, guid: 547f6a30bce39b84da6410d6a39bcddb,
+    type: 3}
+  _unlockedIcon: {fileID: -5396636662612530510, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: 9001640318977238163, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

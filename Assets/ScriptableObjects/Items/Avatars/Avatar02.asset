@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: Avatar02
+  m_EditorClassIdentifier: 
+  _itemName: Pig
+  _indexPosition: 2
+  _itemType: {fileID: 11400000, guid: e07383a35af33ae488229d37ffb40e92, type: 2}
+  _itemPrefab: {fileID: 7084023378936811030, guid: b887289a8ad197043a49e60abc7e5cb9,
+    type: 3}
+  _mainMenuPrefab: {fileID: 304753257717482460, guid: 526e86a7b76513741b91ddb0f510ac54,
+    type: 3}
+  _unlockedIcon: {fileID: -7149115949563621362, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: -9148927916229317307, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: Avatar11
+  m_EditorClassIdentifier: 
+  _itemName: WonderWoman
+  _indexPosition: 11
+  _itemType: {fileID: 11400000, guid: e07383a35af33ae488229d37ffb40e92, type: 2}
+  _itemPrefab: {fileID: 8993404826238596015, guid: 7e01083d94f0ed24ba3c4ac38a4ad7f1,
+    type: 3}
+  _mainMenuPrefab: {fileID: 6977406918376841403, guid: 40a51c3d668117e4ca9a9712f0198398,
+    type: 3}
+  _unlockedIcon: {fileID: -1951700323099829845, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: 2568861586771356350, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

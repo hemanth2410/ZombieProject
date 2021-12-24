@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca4ccc6bd4b7d4d96d09885c55cac7, type: 3}
+  m_Name: Avatar16
+  m_EditorClassIdentifier: 
+  _itemName: Pikachu
+  _indexPosition: 16
+  _itemType: {fileID: 11400000, guid: e07383a35af33ae488229d37ffb40e92, type: 2}
+  _itemPrefab: {fileID: 4276206615061957950, guid: 6c714e5901a9a7648bec01323472136d,
+    type: 3}
+  _mainMenuPrefab: {fileID: 4138931129240129018, guid: ac3fd1c926520e147b15a9b0c4fa369a,
+    type: 3}
+  _unlockedIcon: {fileID: 958245935891633059, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}
+  _lockedIcon: {fileID: -7719145732983146089, guid: 9f1e041511a761c4688f783e81368955,
+    type: 3}

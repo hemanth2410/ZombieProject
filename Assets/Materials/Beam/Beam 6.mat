@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Beam 6
+  m_Shader: {fileID: -6465566751694194690, guid: d93813ba69f8e4b4aaabb1715d865c52,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3C6CE2B3:
+        m_Texture: {fileID: 2800000, guid: eadd4f933c5c0d647bf1c59ae83a74fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_EDE78865:
+        m_Texture: {fileID: 2800000, guid: 70199993e4178df45957fd299a62697d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_45D000E_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9c4fde8b1a34d944ea83cdf26e8ab00a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2ED3B4EF: 1
+    - Vector1_32CB3D90: 2
+    - Vector1_C30A026: -0.3
+    - _isActive: 0
+    - _scrollSpeed: 1
+    m_Colors:
+    - Color_4E299198: {r: 0.21568623, g: 0.21568623, b: 0.21568623, a: 1}
+    - Color_F728C34B: {r: 0.7395463, g: 0, b: 1, a: 1}
+    - Vector2_67172CD7: {r: 0, g: -2, b: 0, a: 0}
+    - _scrollDir: {r: 0, g: 1, b: 0, a: 0}
+    - _scrollSpeed: {r: 0, g: 1, b: 0, a: 0}
+    - _tint: {r: 2.8235295, g: 5.992157, b: 0, a: 1}

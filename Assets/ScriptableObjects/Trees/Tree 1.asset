@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e017507509514a47b73df7eb4443454, type: 3}
+  m_Name: Tree 1
+  m_EditorClassIdentifier: 
+  treeName: Tree_01
+  treePrefab: {fileID: 5210852338644568883, guid: c302c07afd24e0f4591be7775f67bdcb,
+    type: 3}
+  emptyTree: {fileID: 21300000, guid: 5877da62475f4814495b513b20186c89, type: 3}
+  fullTree: {fileID: 21300000, guid: 858702bd963d52a4989a20e6a7ae31de, type: 3}
+  starsRequiredToUnlock: 0

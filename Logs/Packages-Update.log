@@ -1,0 +1,12 @@
+
+=== Tue Dec 21 16:18:38 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.2.16 to 1.14.1
+  com.unity.ide.visualstudio from version 2.0.9 to 2.0.11
+  com.unity.ide.vscode from version 1.2.3 to 1.2.4
+  com.unity.purchasing from version 2.1.1 to 4.1.1
+  com.unity.render-pipelines.universal from version 7.5.3 to 7.7.1
